@@ -1,3 +1,3 @@
 # roadmap
 Practicando roadmap projects
-https://github.com/Carloma31/roadmap
+https://roadmap.sh/projects/single-page-cv
